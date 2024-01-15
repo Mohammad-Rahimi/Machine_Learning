@@ -1,0 +1,11 @@
+Linear Support VectorMachines (SVM) and Logistic Regression (LR), which one would you select for eachscenario?
+MNIST Data Set to extract features, perform classification using the SVM algorithm and evaluate your results using metrics such as accuracy, ROC curve and confusion matrices.
+A. Pipeline 1 - scales data, reduces dimensions with PCA and train an SVM with RBF kernel.
+B. Pipeline 2 - scales data, and train an SVM with RBF kernel.
+######
+California Housing dataset:
+Sequential API to build an MLP with 2 hidden layers with the Leaky ReLU activation function
+#####
+Breast Cancer Dataset available in scikit-learn .  
+Train an MLP with the Sequential API
+Train a CNN with the Sequential API
