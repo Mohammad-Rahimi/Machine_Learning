@@ -1,0 +1,3 @@
+multi-class Logistic Regression classifier with a softmax activationfunction
+Fisher's LDA classifier
+Support Vector Machine (SVM)
